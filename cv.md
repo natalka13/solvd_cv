@@ -24,19 +24,19 @@ I am a junior QA engineer, who is responsible and extremely attentive to details
 * Testing on the site testIO, functional testing of websites as a help for a familiar programmer
 
 ### Education
-**2014-2018 - PhD in Political Science**
-(Yuriy Fedkovych Chernivtsi National University, Chernivtsi (Ukraine))
-**2014-2018 - Master in International Relations**
-(Yuriy Fedkovych Chernivtsi National University, Chernivtsi (Ukraine))
-**Additional courses**
-* The Fundamentals of Software Testing, QATestLab
-* The Fundamentals of Software Testing, Prometheus
-* Fundamentals of Graphic Design, Cluster bit
+**2014-2018 - PhD in Political Science**  
+(Yuriy Fedkovych Chernivtsi National University, Chernivtsi (Ukraine))  
+**2014-2018 - Master in International Relations**  
+(Yuriy Fedkovych Chernivtsi National University, Chernivtsi (Ukraine))  
+**Additional courses**  
+* The Fundamentals of Software Testing, QATestLab  
+* The Fundamentals of Software Testing, Prometheus  
+* Fundamentals of Graphic Design, Cluster bit  
 
-### Languages
-**Ukrainian** - Native
-**Russian** - Fluent
-**English** - Upper-Intermediate
-*2013-2018 - English language courses, ASAP*
-**German** - Advanced
-**Polish** - Intermediate
+### Languages  
+**Ukrainian** - Native  
+**Russian** - Fluent  
+**English** - Upper-Intermediate 
+*2013-2018 - English language courses, ASAP*  
+**German** - Advanced  
+**Polish** - Intermediate  
